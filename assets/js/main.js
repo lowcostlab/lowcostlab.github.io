@@ -20,7 +20,7 @@
 		var	$window = $(window),
 			$body = $('body'),
 			$header = $('#header'),
-			$banner = $('#banner');
+		//	$banner = $('#banner');
 
 		// Fix: Placeholder polyfill.
 			$('form').placeholder();
